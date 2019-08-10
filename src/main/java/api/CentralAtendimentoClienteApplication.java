@@ -8,6 +8,7 @@ public class CentralAtendimentoClienteApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(CentralAtendimentoClienteApplication.class, args);
+		System.out.println("Teste");
 	}
 
 }
